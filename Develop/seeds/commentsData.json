@@ -1,0 +1,17 @@
+[
+    {
+    "blog_id": 1,
+    "comment_description": "Comment Description",
+    "user_id": 1
+    },
+  {
+    "blog_id": 2,
+    "comment_description": "Test comments",
+    "user_id": 2
+  },
+  {
+    "blog_id": 3,
+    "comment_description": "Over it",
+    "user_id": 3
+  }
+]
